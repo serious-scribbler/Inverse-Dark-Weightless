@@ -1,0 +1,1 @@
+ This theme is a modification of the Inverse-dark Kvantum theme by yeyushengfan258 and is licensed under GPLv3. You can find the original theme [here](https://github.com/yeyushengfan258/Inverse-dark-kde)
