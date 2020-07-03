@@ -2,7 +2,18 @@
 A modification of the Inverse-dark Kvantum Theme for Qt 5. I modified this theme to fit the transparent aesthetic of my [Weightless-Theme](https://github.com/serious-scribbler/WeightlessTheme) for awesomeWM.
 
 ## Screenshots
-*Coming soon*
+<div>
+  <table>
+    <tr>
+      <th>Ark with Inverse-Dark-Weightless-Theme</th>
+      <th>Dolphin with Inverse-Dark-Weightless-Theme</th>
+    </tr>
+    <tr>
+      <td><img src="screenshots/weightless-ark.png" alt="Ark with Inverse-Dark-Weightless-Theme"></img></td>
+      <td><img src="screenshots/weightless-dolphin.png" alt="Ark with Inverse-Dark-Weightless-Theme"></img></td>
+    </tr>
+  </table>
+</div>
 
 ## Getting started (and requirements)
 1. This theme requires a compositor like compton. **(If you found this through my awesomeWM-Weightless-Theme continue with step 2)**
