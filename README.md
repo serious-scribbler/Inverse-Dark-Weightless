@@ -25,7 +25,8 @@ A modification of the Inverse-dark Kvantum Theme for Qt 5. I modified this theme
 6. Log out and back in again to apply the change to use qt5ct
 7. Open ```kvantummanager```, select the *Inverse-dark-weightless* directory (The one with the svg file, not the git repo) and press *"Install this theme"*
 8. Click on ```Change/Delete Theme```, select ```Inverse-dark-weightless``` from the dropdown list and press *"Use this theme"*
-9. Quit kvantummanager and open a Qt5 program (examples: dolphin, pcmanfm, ark)
+9. Open ```qt5ct``` and set the style to ```kvantum-dark```
+10. Quit kvantummanager and open a Qt5 program (examples: dolphin, pcmanfm, ark)
 
 
 ## Known issues
