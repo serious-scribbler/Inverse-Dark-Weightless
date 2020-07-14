@@ -19,7 +19,13 @@ A modification of the Inverse-dark Kvantum Theme for Qt 5. I modified this theme
 1. This theme requires a compositor like compton. **(If you found this through my awesomeWM-Weightless-Theme continue with step 2)**
   Install ```compton``` and add it to your ```xinitrc```
 2. Install ```qt5ct```, ```qt5-style-plugins```, ```qt5-style-kvantum```
-3. Start ```qt5ct``` and select your icon theme. I like to use ```nuoveXT .2.2```
+3. Start ```qt5ct``` and select your icon theme. I like to use the ```numix icon theme```.
+  You can install the numix icon theme using the following commands (on Ubuntu):
+```
+sudo add-apt-repository ppa:numix/ppa
+sudo apt-get update
+sudo apt-get install numix-icon-theme
+```
 4. Add ```export QT_QPA_PLATFORMTHEME="qt5ct"``` to your ```.xinitrc```
 5. Download this theme
 6. Log out and back in again to apply the change to use qt5ct
